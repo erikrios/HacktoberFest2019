@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidSum</string>
+    <string name="first_number">First Number</string>
+    <string name="hint_first_number">Type First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="hint_second_number">Type Second Number</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+</resources>
